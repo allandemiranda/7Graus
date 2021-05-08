@@ -3,7 +3,7 @@
   "author": "Allan de Miranda",
   "email": "allandemiranda@gmail.com",
   "licence": "MIT",
-  "version": "1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
