@@ -13,6 +13,10 @@ const Header = props => {
 
   const classes = useStyles();
 
+  const usersReload = () => {
+    window.location.reload();
+  }
+
   return (
     <div
       {...rest}
@@ -42,7 +46,8 @@ const Header = props => {
         <Grid item>
           <Button
             color="primary"
-            onClick={() => window.location.reload()}
+            dataTestid="reload-button"
+            onClick={() => usersReload()}
             variant="contained"
           >
             Reload
