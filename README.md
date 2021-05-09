@@ -2,7 +2,7 @@
 
 ![enter image description here](https://img.shields.io/badge/version-v1.0.0-blue) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43d8e9ce-a109-41f9-9cea-870972e9cf8e/deploy-status)](https://app.netlify.com/sites/compassionate-cray-8c1bfd/deploys) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen) [![Node.js CI](https://github.com/allandemiranda/agenda-taxi/actions/workflows/node.js.yml/badge.svg)](https://github.com/allandemiranda/agenda-taxi/actions/workflows/node.js.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43d8e9ce-a109-41f9-9cea-870972e9cf8e/deploy-status)](https://app.netlify.com/sites/compassionate-cray-8c1bfd/deploys) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen) [![Node.js CI](https://github.com/allandemiranda/7Graus/actions/workflows/node.js.yml/badge.svg)](https://github.com/allandemiranda/agenda-taxi/actions/workflows/node.js.yml)
 
 ![enter image description here](https://img.shields.io/badge/react-v17.0.2-green)
 
@@ -10,11 +10,15 @@
 
 Desenvolvido por [Allan de Miranda Silva](https://www.linkedin.com/in/allandemiranda/) Full Stack Developer | Bachelor of Information Technology (BIT / UFRN)
 
-24 de janeiro de 2021 - Natal/RN
+08 de maio de 2021 - Natal/RN
 
 Um pequeno aplicatvo para listar usuários.
 
 # Iniciando o projeto
+
+## O aplicativo está online aqui
+
+https://60972b0a77841a0007328ec9--compassionate-cray-8c1bfd.netlify.app/
 
 ## Para instalar
 ```md
@@ -45,4 +49,4 @@ http://localhost:3000/users/25
 
 # Detalhes do usuário
 
-Ao clicar sobre o usuário é possivel ver mais detalhes.
+Ao clicar sobre o usuário é possível ver mais detalhes.
