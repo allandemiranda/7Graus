@@ -2,7 +2,7 @@
 
 ![enter image description here](https://img.shields.io/badge/version-v1.0.0-blue) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43d8e9ce-a109-41f9-9cea-870972e9cf8e/deploy-status)](https://app.netlify.com/sites/compassionate-cray-8c1bfd/deploys) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen) [![Node.js CI](https://github.com/allandemiranda/7Graus/actions/workflows/node.js.yml/badge.svg)](https://github.com/allandemiranda/agenda-taxi/actions/workflows/node.js.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43d8e9ce-a109-41f9-9cea-870972e9cf8e/deploy-status)](https://app.netlify.com/sites/compassionate-cray-8c1bfd/deploys) ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen) [![Node.js CI](https://github.com/allandemiranda/7Graus/actions/workflows/node.js.yml/badge.svg)](https://github.com/allandemiranda/7Graus/actions/workflows/node.js.yml)
 
 ![enter image description here](https://img.shields.io/badge/react-v17.0.2-green)
 
